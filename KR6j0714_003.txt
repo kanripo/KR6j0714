@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:21.963107
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:32
 #+TITLE: 楞嚴經觀心定解
 #+PROPERTY: CBETA_ID X15n0306
 #+PROPERTY: ID KR6j0714
